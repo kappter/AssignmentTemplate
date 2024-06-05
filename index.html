@@ -14,7 +14,8 @@
 
     <div class="container">
         <div class="metadata">
-            <p><strong>Subject:</strong> <span id="subject">Subject Name</span></p>
+            <p><strong>Subject:</strong> <span id="course">Subject Name</span></p>
+            <p><strong>Subject:</strong> <span id="strand">Subject Name</span></p>
             <p><strong>Date:</strong> <span id="date">Assignment Date</span></p>
         </div>
 
@@ -43,7 +44,8 @@
                         complete: function(results) {
                             const data = results.data[1];
                             document.getElementById('title').innerText = data.title;
-                            document.getElementById('subject').innerText = data.subject;
+                            document.getElementById('course').innerText = data.course;
+                            document.getElementById('strand').innerText = data.strand;
                             document.getElementById('date').innerText = data.date;
                             document.getElementById('description').innerText = data.description;
                             document.getElementById('content').innerText = data.content;
