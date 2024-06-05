@@ -46,7 +46,7 @@
                     Papa.parse(csv, {
                         header: true,
                         complete: function(results) {
-                            const data = results.data[1];
+                            const data = results.data[0];
                             document.getElementById('title').innerText = data.title;
                             document.getElementById('course').innerText = data.course;
                             document.getElementById('strand').innerText = data.strand;
