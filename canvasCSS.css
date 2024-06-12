@@ -29,8 +29,8 @@ body {
             margin: 5px 0;
         }
         footer {
-            a:link { color: #dddddd; }
-            a:visited { color: #dddddd; }
+            a:link { color: #222222; }
+            a:visited { color: #333333; }
             text-align: center;
             padding: 10px 0;
             margin-top: 20px;
