@@ -1,33 +1,33 @@
 title,course,strand,date,q1,q2,q3,q4,starter,preparer,demo,description,content,scale
-Video Game History,GameDev1,01-01,1,,,,,,,,,,3
+Video Game History,GameDev1,01-01,1,"Identify key figures and designers, early games, milestones, and console wars",,,,,,,,,3
 Game Ratings and Their History,GameDev1,01-02,2,Each of the game ratings from eC - RP will be explored and memorized,Small groups will answer the same questions about each of the standard ratings,Show an example of all questions being answered for one of the ratings (I do),Submit a presentation file with slides credited to each student,Video or reading sumarizing the history and background of each rating,Student1,Mr Kapptie will show students how to create the template and answer the questions for each rating.,Students will evenly divide into groups and create a shared presentation file to share with the class. Among the questions to answer:,ESRB Website: https://www.esrb.org/,3
-Impact and Evolution of Gaming,GameDev1,01-03,3,,,,,,,,,,
-"Understand Game History, Ratings, Evolution",GameDev1,01-PS,4,,,,,,,,,,
-Game Strategy & Feedback,GameDev1,02-01,5,,,,,,,,,,
-Game Control,GameDev1,02-02,6,,,,,,,,,,
-Design Aesthetics,GameDev1,02-03,7,,,,,,,,,,
-Interface Elements,GameDev1,02-04,8,,,,,,,,,,
-"Understand Game Design, View and Interface",GameDev1,02-PS,9,,,,,,,,,,
-Game Platforms Introduction,GameDev1,03-01,10,,,,,,,,,,
-Strengths/Weaknesses in Platforms,GameDev1,03-02,11,,,,,,,,,,
-Impact of Cloud Computing on Game Design,GameDev1,03-03,12,,,,,,,,,,
-"Distribution Channels (Disk, Download, Stream)",GameDev1,03-04,13,,,,,,,,,,
-"Understand Platforms, Mobile, and Distribution",GameDev1,03-PS,14,,,,,,,,,,
-Term 1 Concept Review and Test,GameDev1,00-00,15,,,,,,,,,,
-"Game Genres (Action, Role, Sim, Strategy, Hybrid)",GameDev1,04-01,16,,,,,,,,,,
-"Game Types (Single, 2 Player, Coop, Comp, Team)",GameDev1,04-02,17,,,,,,,,,,
-Understand Genres and Game Types,GameDev1,04-PS,18,,,,,,,,,,
-"Concept Development (Pitch SB Plan, Cost, Time)",GameDev1,05-01,19,,,,,,,,,,
-Pre-Production (Game Design Document),GameDev1,05-02,20,,,,,,,,,,
-Repo Planning Docs,GameDev1,05-02,21,,,,,,,,,,
-Production (Create Assets and Logic etc.),GameDev1,05-03,22,,,,,,,,,,
-Repo Assets,GameDev1,05-03,23,,,,,,,,,,
-Post-Production (Testing and Relese),GameDev1,05-04,24,,,,,,,,,,
-Repo Project Finalization,GameDev1,05-04,25,,,,,,,,,,
-Project Peer Evaluation,GameDev1,05-04,26,,,,,,,,,,
-"Production Cycle, Planning and Testing",GameDev1,05-PS,27,,,,,,,,,,
-Career Awareness,GameDev1,06-01,28,,,,,,,,,,
-Educational Pursuits,GameDev1,06-02,29,,,,,,,,,,
-"Game Dev Jobs, Trends, and Ed Requirements",GameDev1,06-PS,30,,,,,,,,,,
-State Test Review,GameDev1,00-00,31,,,,,,,,,,
-State Certification Test,GameDev1,00-00,32,,,,,,,,,,
+Impact and Evolution of Gaming,GameDev1,01-03,3,"Impact and evolution of gaming from social, economic, and other industries",,,,,,,,,3
+"Understand Game History, Ratings, Evolution",GameDev1,01-PS,4,"Understanding of relevant history, ratings and gaming evolution",,,,,,,,,3
+Game Strategy & Feedback,GameDev1,02-01,5,"Identify game strategies, player motivation, needed feedback, and duration",,,,,,,,,3
+Game Control,GameDev1,02-02,6,"Understand design function, usable game controls, accessibility, and immersion",,,,,,,,,3
+Design Aesthetics,GameDev1,02-03,7,Implementation of design aesthetics like world creation and four types of player views,,,,,,,,,3
+Interface Elements,GameDev1,02-04,8,Exploration of interface elements including diegetic and non-diegetic design and functionality,,,,,,,,,3
+"Understand Game Design, View and Interface",GameDev1,02-PS,9,"Understanding of game functionality and feedback as well as control, views and interface elements",,,,,,,,,3
+Game Platforms Introduction,GameDev1,03-01,10,"Identify game platforms like console, desktop/laptop, and mobile",,,,,,,,,3
+Strengths/Weaknesses in Platforms,GameDev1,03-02,11,"Identify platform considerations like display, hardware performance, input, portability and affordability",,,,,,,,,3
+Impact of Cloud Computing on Game Design,GameDev1,03-03,12,"Understand the impact cloud resources for distribution, updates, dependency on internet, and hardware dependency",,,,,,,,,3
+"Distribution Channels (Disk, Download, Stream)",GameDev1,03-04,13,"Identify distribution channels like physical media, download, Steam, Epic, Apple, Microsoft etc.",,,,,,,,,3
+"Understand Platforms, Mobile, and Distribution",GameDev1,03-PS,14,"Describe consoles, platforms, mobile, and distribution methods",,,,,,,,,3
+Term 1 Concept Review and Test,GameDev1,00-00,15,Test on Strands 1-3,,,,,,,,,3
+"Game Genres (Action, Role, Sim, Strategy, Hybrid)",GameDev1,04-01,16,"Understand game genres like action, adventure, role play, simulation, strategy and many forms of hybrids",,,,,,,,,3
+"Game Types (Single, 2 Player, Coop, Comp, Team)",GameDev1,04-02,17,"Identify game types like single player, two player, multi competitive, multi cooperative, and team based",,,,,,,,,3
+Understand Genres and Game Types,GameDev1,04-PS,18,Identify and understand genres and game types,,,,,,,,,3
+"Concept Development (Pitch SB Plan, Cost, Time)",GameDev1,05-01,19,"Understanding of development concepts like plan, cost and time with a pitch document, storyboard and sketches of characters and envirnment",,,,,,,,,3
+Pre-Production (Game Design Document),GameDev1,05-02,20,Brainstorm production plan design document list,,,,,,,,,3
+Repo Planning Docs,GameDev1,05-02,21,Preparation of game plan document (see list in standards),,,,,,,,,3
+Production (Create Assets and Logic etc.),GameDev1,05-03,22,Production gantt chart,,,,,,,,,3
+Repo Assets,GameDev1,05-03,23,Pruduction of assets and game logic etc.,,,,,,,,,3
+Post-Production (Testing and Relese),GameDev1,05-04,24,"Post production concepts understood: alpha and beta testing, game release and maintenance",,,,,,,,,3
+Repo Project Finalization,GameDev1,05-04,25,Alpha testing.,,,,,,,,,3
+Project Peer Evaluation,GameDev1,05-04,26,Beta testing and game release.,,,,,,,,,3
+"Production Cycle, Planning and Testing",GameDev1,05-PS,27,"Implementation of project in pre, production and post processes",,,,,,,,,3
+Career Awareness,GameDev1,06-01,28,Career awareness with interest and ability in conjunction with actual job titles and current/future opportunities.,,,,,,,,,3
+Educational Pursuits,GameDev1,06-02,29,Educaiton pursuits that match interests and abilities.,,,,,,,,,3
+"Game Dev Jobs, Trends, and Ed Requirements",GameDev1,06-PS,30,Understand careers related to gaming industry and paths to educate and work in the field,,,,,,,,,3
+State Test Review,GameDev1,00-00,31,Test prep on strands 4-6,,,,,,,,,3
+State Certification Test,GameDev1,00-00,32,State certification exam on all strands. ,,,,,,,,,3
